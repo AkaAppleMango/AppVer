@@ -1,11 +1,7 @@
 {
-  "posts": [
+  "keepOn24": [
     {
-      "id": 1,
-      "title": "hello"
+      "lastVersion": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
